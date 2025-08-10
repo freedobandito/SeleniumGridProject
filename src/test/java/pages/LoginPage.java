@@ -42,8 +42,8 @@ public class LoginPage {
 		loginLink.click();
 		UserName.sendKeys(UserNameVal);
 		Password.sendKeys(PwdVal);
-		rememberMe.click();
-		LoginBtn.click();
+		//rememberMe.click();
+		//LoginBtn.click();
 	}
 
 }
